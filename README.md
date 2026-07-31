@@ -4,8 +4,8 @@
 ## Description
 This is a simple registration form developed as a part of Devops Lab Experiment-1.
 
-# Technologies Used
+## Technologies Used
 HTML, CSS, JS
 
-## Authour
+### Author
 Munazza
